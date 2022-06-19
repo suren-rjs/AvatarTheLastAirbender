@@ -1,7 +1,7 @@
-![ProfileImage](/AvatarTheLastAirbender/assets/avatar-the-last-airbender-7-essential-episodes.jpg?raw=true)
-<h1 align="left">Avatar The Last Air-Bender</h1>
-<h3 align="left">A Web Developer who is Deep driven into Application Development</h3>
-<h5>Step out from safe zone!</h5>
+![ProfileImage](https://github.com/AvatarTheLastAirbender/AvatarTheLastAirbender/blob/main/assets/avatar-the-last-airbender-7-essential-episodes.jpg?raw=true)
+<h1 align="center">Avatar The Last Air-Bender</h1>
+<h3 align="center">A Web Developer who is Deep driven into Application Development</h3>
+<h5 align="center">Step out from safe zone!</h5>
  
 - 🌱 I’m currently learning **C, C++, JAVA**
 
