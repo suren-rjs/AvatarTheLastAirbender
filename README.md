@@ -7,11 +7,11 @@
 
 - 💬 Ask me about **How to ...**
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avatarthelastairbender&" alt="avatarthelastairbender" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AvatarTheLastAirbender&" alt="avatarthelastairbender" /></p>
 <hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avatarthelastairbender&show_icons=true&locale=en" alt="avatarthelastairbender" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AvatarTheLastAirbender&show_icons=true&locale=en" alt="avatarthelastairbender" /></p>
 
-[//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avatarthelastairbender" alt="avatarthelastairbender" /></a> </p>)
+[//]: # (<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AvatarTheLastAirbender" alt="avatarthelastairbender" /></a> </p>)
 [//]: # (<h3 align="left">Connect with me:</h3>)
 
 <p align="left">
