@@ -5,6 +5,14 @@ Stil learning **Java, Dart, Javascript and frameworks**
 
 Ask me about **Java, Svelte, Flutter and Vue Js**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avatarthelastairbender&show_icons=true&locale=en&layout=compact" alt="avatarthelastairbender" /></p>
+<p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://github-stats-alpha.vercel.app/api?username=AvatarTheLastAirbender&cc=271e2f&tc=fee&ic=fbe&bc=fbe">
+</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avatarthelastairbender&show_icons=true&locale=en" alt="avatarthelastairbender" /></p>
+<p align="center">
+<picture>
+<img src="https://github-readme-stats.vercel.app/api?username=AvatarTheLastAirbender&show_icons=true&theme=radical" />
+</picture>
+</p>
