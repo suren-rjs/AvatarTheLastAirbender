@@ -3,12 +3,12 @@
 
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://github-stats-alpha.vercel.app/api?username=AvatarTheLastAirbender&cc=271e2f&tc=fee&ic=fbe&bc=fbe">
+    <img src="https://github-stats-alpha.vercel.app/api?username=suren-rjs&cc=271e2f&tc=fee&ic=fbe&bc=fbe">
 </a>
 </p>
 
 <p align="center">
 <picture>
-<img src="https://github-readme-stats.vercel.app/api?username=AvatarTheLastAirbender&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=suren-rjs&show_icons=true&theme=radical" />
 </picture>
 </p>
