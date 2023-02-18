@@ -1,9 +1,5 @@
-<h1 align="center">Avatar The Last Air-Bender</h1>
-<h3 align="center">Developer from India.</h3>
-
-Stil learning **Java, Dart, Javascript and frameworks**
-
-Ask me about **Java, Svelte, Flutter and Vue Js**
+<h1 align="center">Suren-Rjs</h1>
+<h3 align="center">Flutter and Javascript Developer</h3>
 
 <p align="center">
 <a href="https://github.com/drkostas">
